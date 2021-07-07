@@ -1,0 +1,1 @@
+sub.status=='3' and (sub.statusDetail.substr(2, 1)=="1" or sub.statusDetail.substr(3, 1)=="1");
